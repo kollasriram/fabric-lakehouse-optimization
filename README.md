@@ -19,6 +19,7 @@ A safe, reusable Microsoft Fabric notebook for assessing Lakehouses and producin
 ## Notebook
 
 - [`Fabric_Lakehouse_Optimization_and_Maintenance_Customer.ipynb`](./Fabric_Lakehouse_Optimization_and_Maintenance_Customer.ipynb)
+- [Fabric Spark optimization coverage matrix](./docs/Fabric_Spark_Optimization_Coverage_Matrix.md)
 
 ## Safe usage
 
