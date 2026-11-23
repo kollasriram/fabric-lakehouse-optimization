@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebook execution can expose workspace, table, shortcut, and target metadata.
+*-output*.json
+*-results*.json
+*_audit*.csv
+*_implementation_plan*.csv
+*.log
